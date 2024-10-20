@@ -1,0 +1,8 @@
+storage:
+  s3:
+    bucket: video-store-test
+    region: us-east-1
+  gcs:
+    project: video-store-test
+    bucket: video-store-test
+    region: us-east1
