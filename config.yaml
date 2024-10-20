@@ -1,4 +1,5 @@
 storage:
+  bolt_location: /tmp/bolt.db
   s3:
     bucket: video-store-test
     region: us-east-1
